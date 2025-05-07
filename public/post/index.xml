@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on dfl.ddns.net v3</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on dfl.ddns.net v3</description>
+    <image>
+      <title>dfl.ddns.net v3</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 19:25:59 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sun Solaris</title>
+      <link>http://localhost:1313/post/s10/</link>
+      <pubDate>Tue, 06 May 2025 19:25:59 +0100</pubDate>
+      <guid>http://localhost:1313/post/s10/</guid>
+      <description>&lt;h1 id=&#34;solaris-10--11&#34;&gt;Solaris 10 &amp;amp; 11&lt;/h1&gt;
+&lt;p&gt;Pre-Oracle takeover binaries for Solaris are hard to come by it seems, I have posted sol-10-u6-ga1-x86-dvd.iso (https) which I found on my hard disk and also as a torrent, sol-10-u6-ga1-x86.torrent, this should be Solaris 10, Update 6 for x86.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-tAA56kk3-qqh0ThwIZcz9E522BuWpcE/view?usp=drive_link&#34;&gt;sol-10-u6-ga1-x86-dvd.iso (https 2.15 Gb)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfl.ddns.net/share/sol-10-u6-ga1-x86.torrent&#34;&gt;sol-10-u6-ga1-x86.torrent (.torrent)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Solaris 11 &lt;a href=&#34;https://drive.google.com/file/d/1-yyAH_IhDjoeuV-1q8zPIjun-l_ihJ1Z/view?usp=drive_link&#34;&gt;(https .tgz 2.39 Gb)&lt;/a&gt; &amp;hellip; needs a torrent&lt;/li&gt;
+&lt;li&gt;Solaris 11 Developer Tools &amp;hellip; Netbeans &amp;amp; Sun Studio &lt;a href=&#34;&#34;&gt;(https .tgz)&lt;/a&gt;&lt;a href=&#34;https://drive.google.com/file/d/10O421-daT7jDpHTG6h_D2EEo_CM6Stqm/view?usp=drive_link&#34;&gt;https://drive.google.com/file/d/10O421-daT7jDpHTG6h_D2EEo_CM6Stqm/view?usp=drive_link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sun SDD Tool &lt;a href=&#34;https://drive.google.com/file/d/1-vVOdkhMipM1wqKh-jNCDCbUJxJwTgWw/view?usp=drive_link&#34;&gt;(https .tgz)&lt;/a&gt; i.e. the Sun Device Detection Tool&lt;/li&gt;
+&lt;li&gt;Solaris 11 Licence &lt;a href=&#34;https://drive.google.com/file/d/1-veXj1OUGCWY4Rc0ianvc7aOaEc13mi6/view?usp=drive_link&#34;&gt;(https .pdf)&lt;/a&gt;
+7  Open Solaris 2009.06 &lt;a href=&#34;https://archive.org/details/open-solaris&#34;&gt;(Internet Archive https)&lt;/a&gt; &amp;hellip; I think I can make a torrent for this too.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Labour&#39;s Forde Report</title>
+      <link>http://localhost:1313/post/forde/</link>
+      <pubDate>Tue, 06 May 2025 13:13:14 +0100</pubDate>
+      <guid>http://localhost:1313/post/forde/</guid>
+      <description>&lt;h1 id=&#34;the-forde-report&#34;&gt;The Forde Report&lt;/h1&gt;
+&lt;p&gt;The Forde Report is the culmination of an independent investigation commissioned by the Labour Party’s National Executive Committee (NEC) in 2020 to investigate both the contents of an internal report leaked into the public domain, as well as the circumstances in which it was prepared and put into the public domain.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-gn_1XQ8mitcMF9xtCvwi0LKGQQvrQTS/view?usp=drive_link&#34;&gt;The Forde Report 18.7.2022 (https .pdf)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20221012134032/https:/www.fordeinquiry.org/forde-inquiry-report/&#34;&gt;The Forde Report 18.7.2022 (html wayback machine)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfl.ddns.net/share/fordereport.torrent&#34;&gt;The Forde Report (.torrent)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The Labour Party published its action plan on the Forde Reporti, and I have collected some assets which are available,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WOTC&#39;s OGL</title>
+      <link>http://localhost:1313/post/ogl/</link>
+      <pubDate>Tue, 06 May 2025 11:33:56 +0100</pubDate>
+      <guid>http://localhost:1313/post/ogl/</guid>
+      <description>&lt;h1 id=&#34;dungeons--dragons&#34;&gt;Dungeons &amp;amp; Dragons&lt;/h1&gt;
+&lt;p&gt;The game is owned by a public company and has published its rules under a permissive copyleft licence. Here are the key ‘open’ artefacts.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.archive.org/web/20141231043853/http://dnd.wizards.com/articles/features/basicrules?x=dnd/basicrules&#34;&gt;The Player’s handbook ( .pdf wayback machine)&lt;/a&gt; and &lt;a href=&#34;https://drive.google.com/file/d/180-UzvMvVKUba50NKlbZxL0EFIuBnilX/view?usp=share_link&#34;&gt;my .pdf mirror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfl.ddns.net/share/DnD_PHB_Free_v0.2.pdf.torrent&#34;&gt;The Player’s handbook (.torrent)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf&#34;&gt;OGL 1.0a &amp;amp; SRD 5.1 (.pdf wizards)&lt;/a&gt; and &lt;a href=&#34;https://drive.google.com/file/d/19WFtFK7LVTK7poWZpzOu1BKMLxQuKVt4/view?usp=share_link&#34;&gt;my .pdf mirror&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://dfl.ddns.net/share/SRD_OGL_V5_1.pdf.torrent&#34;&gt;OGL &amp;amp; SRD 5.1 (.torrent)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DnD Beyond&amp;rsquo;s &lt;a href=&#34;https://www.dndbeyond.com/srd&#34;&gt;SRD 5.2 landing page&lt;/a&gt; and &lt;a href=&#34;https://drive.google.com/file/d/1-YAMpt0psHpVyvkIgcX_Epj-QVbnRHPU/view?usp=drive_link&#34;&gt;my mirror of SRD 5.2&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See also &lt;a href=&#34;https://davelevy.info/wiki/on-the-wotc-ogl/#oglarchive&#34;&gt;a resource index on my wiki&lt;/a&gt; in an  article that tried to track the whole scandal. In short, WOTC backed down.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sun Solaris on dfl.ddns.net v3</title>
+    <link>http://localhost:1313/tags/sun-solaris/</link>
+    <description>Recent content in Sun Solaris on dfl.ddns.net v3</description>
+    <image>
+      <title>dfl.ddns.net v3</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 19:25:59 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sun-solaris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sun Solaris</title>
+      <link>http://localhost:1313/post/s10/</link>
+      <pubDate>Tue, 06 May 2025 19:25:59 +0100</pubDate>
+      <guid>http://localhost:1313/post/s10/</guid>
+      <description>&lt;h1 id=&#34;solaris-10--11&#34;&gt;Solaris 10 &amp;amp; 11&lt;/h1&gt;
+&lt;p&gt;Pre-Oracle takeover binaries for Solaris are hard to come by it seems, I have posted sol-10-u6-ga1-x86-dvd.iso (https) which I found on my hard disk and also as a torrent, sol-10-u6-ga1-x86.torrent, this should be Solaris 10, Update 6 for x86.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-tAA56kk3-qqh0ThwIZcz9E522BuWpcE/view?usp=drive_link&#34;&gt;sol-10-u6-ga1-x86-dvd.iso (https 2.15 Gb)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dfl.ddns.net/share/sol-10-u6-ga1-x86.torrent&#34;&gt;sol-10-u6-ga1-x86.torrent (.torrent)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Solaris 11 &lt;a href=&#34;https://drive.google.com/file/d/1-yyAH_IhDjoeuV-1q8zPIjun-l_ihJ1Z/view?usp=drive_link&#34;&gt;(https .tgz 2.39 Gb)&lt;/a&gt; &amp;hellip; needs a torrent&lt;/li&gt;
+&lt;li&gt;Solaris 11 Developer Tools &amp;hellip; Netbeans &amp;amp; Sun Studio &lt;a href=&#34;&#34;&gt;(https .tgz)&lt;/a&gt;&lt;a href=&#34;https://drive.google.com/file/d/10O421-daT7jDpHTG6h_D2EEo_CM6Stqm/view?usp=drive_link&#34;&gt;https://drive.google.com/file/d/10O421-daT7jDpHTG6h_D2EEo_CM6Stqm/view?usp=drive_link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sun SDD Tool &lt;a href=&#34;https://drive.google.com/file/d/1-vVOdkhMipM1wqKh-jNCDCbUJxJwTgWw/view?usp=drive_link&#34;&gt;(https .tgz)&lt;/a&gt; i.e. the Sun Device Detection Tool&lt;/li&gt;
+&lt;li&gt;Solaris 11 Licence &lt;a href=&#34;https://drive.google.com/file/d/1-veXj1OUGCWY4Rc0ianvc7aOaEc13mi6/view?usp=drive_link&#34;&gt;(https .pdf)&lt;/a&gt;
+7  Open Solaris 2009.06 &lt;a href=&#34;https://archive.org/details/open-solaris&#34;&gt;(Internet Archive https)&lt;/a&gt; &amp;hellip; I think I can make a torrent for this too.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,42 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/archive/</loc>
+    <loc>http://dfl.ddns.net/tags/archive/</loc>
+    <lastmod>2025-08-10T11:48:21+00:00</lastmod>
+  </url><url>
+    <loc>http://dfl.ddns.net/</loc>
+    <lastmod>2025-08-10T11:48:21+00:00</lastmod>
+  </url><url>
+    <loc>http://dfl.ddns.net/post/lprules/</loc>
+    <lastmod>2025-08-10T11:48:21+00:00</lastmod>
+  </url><url>
+    <loc>http://dfl.ddns.net/tags/politics/</loc>
+    <lastmod>2025-08-10T11:48:21+00:00</lastmod>
+  </url><url>
+    <loc>http://dfl.ddns.net/post/</loc>
+    <lastmod>2025-08-10T11:48:21+00:00</lastmod>
+  </url><url>
+    <loc>http://dfl.ddns.net/tags/</loc>
+    <lastmod>2025-08-10T11:48:21+00:00</lastmod>
+  </url><url>
+    <loc>http://dfl.ddns.net/tags/software/</loc>
     <lastmod>2025-05-06T19:25:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://dfl.ddns.net/post/s10/</loc>
     <lastmod>2025-05-06T19:25:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://dfl.ddns.net/tags/sun-solaris/</loc>
     <lastmod>2025-05-06T19:25:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software/</loc>
+    <loc>http://dfl.ddns.net/tags/torrent/</loc>
     <lastmod>2025-05-06T19:25:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/s10/</loc>
-    <lastmod>2025-05-06T19:25:59+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sun-solaris/</loc>
-    <lastmod>2025-05-06T19:25:59+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-06T19:25:59+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/torrent/</loc>
-    <lastmod>2025-05-06T19:25:59+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/forde/</loc>
+    <loc>http://dfl.ddns.net/post/forde/</loc>
     <lastmod>2025-05-06T13:13:14+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/politics/</loc>
-    <lastmod>2025-05-06T13:13:14+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/d--d/</loc>
+    <loc>http://dfl.ddns.net/tags/d--d/</loc>
     <lastmod>2025-05-06T11:33:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/ogl/</loc>
+    <loc>http://dfl.ddns.net/post/ogl/</loc>
     <lastmod>2025-05-06T11:33:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://dfl.ddns.net/categories/</loc>
   </url>
 </urlset>

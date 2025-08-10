@@ -1,6 +1,6 @@
 languageCode: en-us
 title: dfl.ddns.net v3
-baseURL: http://localhost
+baseURL: http://dfl.ddns.net
 
 theme: PaperMod
 
